@@ -107,9 +107,9 @@ body: [article, comments]
 # 侧边栏小部件，默认按下面给定的顺序全部显示，文章中还可以自定义显示一部分以及顺序
 sidebar:
   - widget: author
-    avatar: https://i.loli.net/2019/08/15/YSiHQqgl5w3rnL6.png
+    avatar: https://i.loli.net/2019/08/27/SCTrzsMhKIg2OYq.jpg
     social: true
-    body: 王子和公主过上了幸福的生活，那守城的小兵呢。
+    body: 王子和公主过上了性福的生活，那守城的小兵呢？
   - widget: category
     title: 文章分类
     enable: true
